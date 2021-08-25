@@ -4,7 +4,7 @@ Omnifood project which is website of a fictional corporation named "Omnifood".
 Website has smooth scrolling feature and it is **responsive**. Designed with the
 consideration of **Web Desing Principles**
 
-[Go to website](https://fatihfurkanaydemir-omnifood.netlify.app)
+Website Link: [https://fatihfurkanaydemir-omnifood.netlify.app](https://fatihfurkanaydemir-omnifood.netlify.app)
 
 ![](https://github.com/fatihfurkanaydemir/html-css-omnifood/blob/master/page.png)
 
