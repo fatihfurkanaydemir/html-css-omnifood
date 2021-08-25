@@ -8,6 +8,10 @@ consideration of **Web Desing Principles**
 
 ![](https://github.com/fatihfurkanaydemir/html-css-omnifood/blob/master/page.png)
 
+## Small version (Tablets and small screen laptops)
+
+![](https://github.com/fatihfurkanaydemir/html-css-omnifood/blob/master/page-small.png)
+
 ## Mobile version
 
 ![](https://github.com/fatihfurkanaydemir/html-css-omnifood/blob/master/page-mobile.png)
